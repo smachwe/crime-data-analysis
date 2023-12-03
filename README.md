@@ -9,10 +9,13 @@ Current apps such as Trulia, Zillow, Crime grade and City Data provide overall g
 These websites use factors such as school ratings, dwelling attributes and comparable etc. that are limited in scope when it comes to personalization.
 Unlike general safety ratings, we want to personalize the safety ratings based on the user's profile i.e., find the areas that are safe or unsafe for an individual associated with specific user profile.
 
+Please refer to the final report: [final report](reports/team008report.pdf) and Poster Presentation: [final poster](/reports/team008poster.pdf) 
+
 ### Project Organization
 
 1. [User Profile Recommender System Needs & Complications.pptx](reports/User%20Profile%20Recommender%20System%20Needs%20&%20Complications.pptx) : Describes user profile and crime profile `Cosine Similarity` alogrithm for recommendation engine.
  
+
 2. [Dashboard](src/dashboard) `CrimeMap.twbx` : Package Tableau Dashboard with descriptive analytics and recommendation engine dashboard.
 
 
